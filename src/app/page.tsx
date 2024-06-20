@@ -16,7 +16,7 @@ const Page = () => {
   );
 };
 
-export const MainStyle = styled.div`
+const MainStyle = styled.div`
   display: flex;
   padding: 20px;
   flex-direction: column;
