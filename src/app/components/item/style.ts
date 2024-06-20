@@ -30,7 +30,8 @@ export const CardStyle = styled.div`
 
     img {
       padding-top: 10px;
-      max-height: 100px;
+      height: 50px;
+      width: auto;
     }
   }
 `;
@@ -135,8 +136,10 @@ export const DropStyle = styled.div`
         width: 100px;
         height: 100px;
         position: relative;
+
         img {
-          padding-bottom: 0px;
+          height: 40px;
+          width: auto;
         }
       }
     }
