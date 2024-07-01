@@ -1,5 +1,7 @@
 # 메이플랜드 정보사이트 (엘나스 산맥까지 구현)
 [기존 Repo](https://github.com/geun99/yetigg) 해당 프로젝트를 Next.js와 MongoDB를 이용해 마이그레이션한 Repository입니다
+
+## [Yeti.GG 배포 링크](https://yetigg-next.vercel.app/)
 ## 사용 기술
 - Next.JS(프레임워크)
 - Redux(state management tool)
